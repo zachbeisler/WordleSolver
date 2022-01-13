@@ -1,0 +1,13 @@
+------------------- WorldeSolver Help -------------------
+1. Guesses:
+	Enter the guess you input to Wordle
+	Enter a guess of "help" to show this menu
+	Enter a guess of "*" to display the current word list
+	Enter a guess of "restart" to restart the round
+2. Patterns:
+	After inputting a guess to Wordle, input its response
+	Gray Block <=> "x"
+	Yellow Block <=> "?"
+	Green Block <=> "o"
+	I.E. Gray Gray Yellow Green Gray <=> "xx?ox" 
+---------------------------------------------------------
